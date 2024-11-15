@@ -1,0 +1,28 @@
+.gradient-background {
+    background:#F4F6FF
+  }
+
+.color{
+    background:#F3C623
+}
+
+.badge {
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Center-align text within the badge */
+    padding: 0.5rem 1rem; /* Adjust padding as needed */
+    width: 15%; /* Ensure badge takes full width of the parent */
+}
+.d-flex {
+    flex-wrap: wrap; /* Allow badges to wrap if the screen is narrow */
+}
+
+.now{
+    background-color: #10375C;
+}
+
+.jumbo{
+    background-color: #F3C623
+}
+
+
